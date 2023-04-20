@@ -21,7 +21,6 @@ padding: 24px;
     font-size: 24px;
     margin: 0 16px
     
-
 }
 
 .escola-imagem{
@@ -39,10 +38,37 @@ padding: 24px;
 
 .escola-div-conteudo{
     width: 35%
-
     
 }
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.imagem-estudante{
+    width: 120px;
+
+}
+
+.imagem-estudante2{
+    width: 120px;
+}
+
+.icon{
+    width: 24px;
+    padding: 5px;
+}
+
+.icon2{
+    width: 24px;
+    padding: 5px;
+}
+
+.estudante-div{
+    text-align: center;
+    
 }
